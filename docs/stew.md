@@ -14,7 +14,7 @@ The config file (Sass)
 
 Go to `css/stew/_config.sass` and you'll find the sass-file. In this file, the most important settings are stored in variables you can easily change to your preference. Play with them to see which impact they have on the webpage. Most of them are self-explanatory.
 
-`// GRID -------------------------------------------------------------------------
+` // GRID -------------------------------------------------------------------------
 $gutter: 30px
 $lg-container-width: 1170px
 $md-container-width: 80%
@@ -45,7 +45,7 @@ $divider-color: #555
 $lg-debug-color: #e74c3c
 $md-debug-color: #e67e22
 $sm-debug-color: #9b59b6
-$xs-debug-color: hsl(204, 69%, 53%)`
+$xs-debug-color: hsl(204, 69%, 53%) `
 
 Files provided for you
 ----------------------
